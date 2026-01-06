@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Detroit Blight Ticket Compliance Prediction
 
 ## 📌 Project Overview
@@ -45,3 +46,7 @@ Gradient Boosting achieved the best performance while avoiding data leakage.
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+=======
+# detroit-blight-ticket-compliance
+End-to-end Data Science project: data cleaning → feature engineering → leakage handling → modeling → evaluation.
+>>>>>>> 19a044f3c496b8ea29854e3976ed51e8d824a197
