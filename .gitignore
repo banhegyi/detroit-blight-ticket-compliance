@@ -1,0 +1,23 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+
+# Logs & temp
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
